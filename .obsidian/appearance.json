@@ -2,5 +2,8 @@
   "cssTheme": "",
   "theme": "system",
   "baseFontSize": 20,
-  "accentColor": "#a80000"
+  "accentColor": "#a80000",
+  "enabledCssSnippets": [
+    "Styles"
+  ]
 }
