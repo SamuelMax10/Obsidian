@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9a78501d85324cd1",
+        "id": "48c9d8c5447618e2",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0f7ba151f0e4e0",
+            "id": "7e3e9b26ec852f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "aa5dcb374b79bd19",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,15 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc0f7ba151f0e4e0",
+  "active": "7e3e9b26ec852f6b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Principais Terminologias.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
-    "conflict-files-obsidian-git.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing.md",
