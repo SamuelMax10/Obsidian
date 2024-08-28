@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "HOME",
+      "query": "file:HOME",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -39,6 +39,6 @@
   "repelStrength": 15.4989604989605,
   "linkStrength": 0.779106029106029,
   "linkDistance": 408,
-  "scale": 0.5087618855792613,
+  "scale": 0.5768679883008986,
   "close": true
 }
