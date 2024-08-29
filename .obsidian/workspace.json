@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b73e51d7464470ee",
+        "id": "271f16afd80b163a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a060ebca27ef441",
+            "id": "34293a5608f5df67",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,18 +169,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a060ebca27ef441",
+  "active": "34293a5608f5df67",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Terminal.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Usuários.md",
+    "Pasted image 20240828223446.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Terminal.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Modalidade de Pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Metodologias de Pentest.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Pasted image 20240825224627.png",
     "HOMEPAGE.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Principais Terminologias.md",

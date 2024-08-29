@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Introdução ao Terminal",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Terminal.md"
-    },
-    {
-      "basename": "HOME - Modulo 2 - Introdução ao Penetration Testing",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md"
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
+      "basename": "Gerenciando Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Rede.md"
+    },
+    {
       "basename": "Gerenciando Usuários",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Usuários.md"
+    },
+    {
+      "basename": "HOME - Modulo 2 - Introdução ao Penetration Testing",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md"
+    },
+    {
+      "basename": "Introdução ao Terminal",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Terminal.md"
     },
     {
       "basename": "Sistemas Operacionais",
@@ -35,10 +43,6 @@
     {
       "basename": "Metodologias de Pentest",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Metodologias de Pentest.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Pasted image 20240825224627",
