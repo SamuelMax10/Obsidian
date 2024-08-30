@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
-    },
-    {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Rede.md"
+      "basename": "HOMEPAGE",
+      "path": "HOMEPAGE.md"
     },
     {
-      "basename": "Gerenciando Usuários",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Gerenciando Usuários.md"
+      "basename": "HOME - Modulo 4 - Dominando o prompt do Windows",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/HOME - Modulo 4 - Dominando o prompt do Windows.md"
+    },
+    {
+      "basename": "HOME - Modulo 3 - Dominando o terminal do Linux",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md"
     },
     {
       "basename": "HOME - Modulo 2 - Introdução ao Penetration Testing",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md"
     },
     {
+      "basename": "HOME - Modulo 1 - Introdução a Segurança da Informação",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
+    },
+    {
+      "basename": "Legislação para Crimes Cibernéticos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Trabalhando com pacotes",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Gerenciando Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
+    },
+    {
+      "basename": "Gerenciando Usuários",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
+    },
+    {
       "basename": "Introdução ao Terminal",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Terminal.md"
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
     },
     {
       "basename": "Sistemas Operacionais",
@@ -49,24 +81,12 @@
       "path": "Pasted image 20240825224627.png"
     },
     {
-      "basename": "HOMEPAGE",
-      "path": "HOMEPAGE.md"
-    },
-    {
       "basename": "Principais Terminologias",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Principais Terminologias.md"
     },
     {
       "basename": "Pilares da Segurança da Informação",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Pilares da Segurança da Informação.md"
-    },
-    {
-      "basename": "Legislação para Crimes Cibernéticos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md"
-    },
-    {
-      "basename": "HOME - Modulo 1 - Introdução a Segurança da Informação",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
     }
   ],
   "omittedPaths": []
