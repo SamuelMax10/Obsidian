@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview sobre Web e HTTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md"
+    },
+    {
+      "basename": "HOME - Modulo 5 - Visão geral sobre WEB e HTTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/HOME - Modulo 5 - Visão geral sobre WEB e HTTP.md"
+    },
+    {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
-      "basename": "HOMEPAGE",
-      "path": "HOMEPAGE.md"
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Introdução prompt de comando",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md"
     },
     {
       "basename": "HOME - Modulo 4 - Dominando o prompt do Windows",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/HOME - Modulo 4 - Dominando o prompt do Windows.md"
+    },
+    {
+      "basename": "HOMEPAGE",
+      "path": "HOMEPAGE.md"
     },
     {
       "basename": "HOME - Modulo 3 - Dominando o terminal do Linux",
@@ -39,10 +55,6 @@
     {
       "basename": "Trabalhando com pacotes",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Gerenciando Rede",

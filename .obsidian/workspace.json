@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d8479b4dfba3765",
+        "id": "75aeee26ddbb97de",
         "type": "tabs",
         "children": [
           {
-            "id": "e44e0cee511fb075",
+            "id": "50a87f7da4074e0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,11 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e44e0cee511fb075",
+  "active": "50a87f7da4074e0e",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/HOME - Modulo 5 - Visão geral sobre WEB e HTTP.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "HOMEPAGE.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/HOME - Modulo 4 - Dominando o prompt do Windows.md",
+    "HOMEPAGE.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
@@ -183,7 +188,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
     "Pasted image 20240828223446.png",
@@ -202,12 +206,9 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Introdução a Segurança da Informação.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação",
     "Sem título",
-    "Pentest - Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional",
-    "Cybersecurity",
-    "Cybersecurity.md"
+    "Cybersecurity"
   ]
 }
