@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7736732155716b0",
+        "id": "ed5e11471ddb6a40",
         "type": "tabs",
         "children": [
           {
-            "id": "125f334b224ef0e8",
+            "id": "b16675ff52dc620f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,11 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "125f334b224ef0e8",
+  "active": "b16675ff52dc620f",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md",
+    "Pasted image 20240903202414.png",
+    "Pasted image 20240903201935.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Sem título",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
     "Pasted image 20240902194851.png",
     "Pasted image 20240902194038.png",
     "Pasted image 20240902193957.png",
@@ -185,8 +189,6 @@
     "Pasted image 20240902182542.png",
     "Pasted image 20240902181532.png",
     "Pasted image 20240902181306.png",
-    "Pasted image 20240902180735.png",
-    "Pasted image 20240902174158.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
@@ -209,13 +211,11 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Modalidade de Pentest.md",
     "Samuel Max",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação",
-    "Sem título",
-    "Cybersecurity/Pentest - Novo Profissional"
+    "Sem título"
   ]
 }
