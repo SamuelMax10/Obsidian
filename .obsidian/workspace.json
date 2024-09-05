@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5e11471ddb6a40",
+        "id": "a203d9c742ad92f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b16675ff52dc620f",
+            "id": "13f40cc2f1228130",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -169,15 +170,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b16675ff52dc620f",
+  "active": "13f40cc2f1228130",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md",
+    "Pasted image 20240904231451.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md",
+    "Pasted image 20240904222304.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md",
+    "Pasted image 20240904213402.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md",
     "Pasted image 20240903202414.png",
     "Pasted image 20240903201935.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Sem título",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
     "Pasted image 20240902194851.png",
     "Pasted image 20240902194038.png",
     "Pasted image 20240902193957.png",
@@ -186,9 +193,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Pasted image 20240902182542.png",
-    "Pasted image 20240902181532.png",
-    "Pasted image 20240902181306.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
@@ -208,9 +212,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
     "Samuel Max",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing",
