@@ -5,6 +5,18 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
     },
     {
+      "basename": "Entendendo o DNS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md"
+    },
+    {
+      "basename": "Fragmentação de Pacotes IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
+    },
+    {
+      "basename": "3WHS - Three-way Handshake",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
+    },
+    {
       "basename": "Protocolo UDP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo UDP.md"
     },
@@ -25,20 +37,12 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md"
     },
     {
-      "basename": "3WHS - Three-way Handshake",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
-    },
-    {
       "basename": "Protocolo TCP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
     },
     {
       "basename": "Protocolo IP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md"
-    },
-    {
-      "basename": "Fragmentação de Pacotes IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
     },
     {
       "basename": "Gerenciando Rede",
