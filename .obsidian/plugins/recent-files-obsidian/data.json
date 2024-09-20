@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
+      "basename": "Wireshark",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
+    },
+    {
+      "basename": "Legislação para Crimes Cibernéticos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md"
+    },
+    {
+      "basename": "HOME - Modulo 1 - Introdução a Segurança da Informação",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
+    },
+    {
+      "basename": "Entendendo o DNS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md"
     },
     {
       "basename": "Bytes na Rede",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
+    },
+    {
+      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
     },
     {
       "basename": "Protocolo ARP",
@@ -77,10 +101,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
       "basename": "Overview sobre Web e HTTP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md"
     },
@@ -111,14 +131,6 @@
     {
       "basename": "HOME - Modulo 2 - Introdução ao Penetration Testing",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/HOME - Modulo 2 - Introdução ao Penetration Testing.md"
-    },
-    {
-      "basename": "HOME - Modulo 1 - Introdução a Segurança da Informação",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
-    },
-    {
-      "basename": "Legislação para Crimes Cibernéticos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md"
     },
     {
       "basename": "Sistemas Operacionais",

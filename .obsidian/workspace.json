@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "341b2b76ac836bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -94,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,13 +170,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "341b2b76ac836bf4",
+  "active": "ff3defe79c3253aa",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Sem título",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240909164417.png",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o PING.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md",
@@ -220,20 +211,13 @@
     "Pasted image 20240902193957.png",
     "Pasted image 20240902193901.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
-    "Sem título.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/HOME - Modulo 5 - Visão geral sobre WEB e HTTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux",
     "Samuel Max",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing",
-    "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação",
-    "Sem título"
+    "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
