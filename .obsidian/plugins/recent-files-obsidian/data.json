@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
+    },
+    {
+      "basename": "Introdução ao Bash Scripting",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md"
+    },
+    {
       "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
+    },
+    {
+      "basename": "Analise de Tráfego - Portscan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Wireshark",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
     },
     {
       "basename": "TCPDUMP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/TCPDUMP.md"
     },
     {
-      "basename": "Wireshark",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
+      "basename": "Bytes na Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
+    },
+    {
+      "basename": "Protocolo TCP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
     },
     {
       "basename": "Overview sobre Web e HTTP",
@@ -19,10 +47,6 @@
     {
       "basename": "HOME - Modulo 5 - Visão geral sobre WEB e HTTP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/HOME - Modulo 5 - Visão geral sobre WEB e HTTP.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
@@ -61,20 +85,12 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md"
     },
     {
-      "basename": "Protocolo TCP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
-    },
-    {
       "basename": "Protocolo IP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md"
     },
     {
       "basename": "Gerenciando Rede",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Ganhando tempo",
