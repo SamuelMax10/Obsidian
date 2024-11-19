@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb290bab56c7cc7e",
+        "id": "bc2bd1c8c4389f91",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3c715006cefd08",
+            "id": "2503ee4558ed153c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CHECKLIST"
+              "title": "Nova aba"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para CHECKLIST"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,8 +160,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "a7fc2659f89b3a13",
@@ -199,19 +193,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cbf77f23514f252",
+  "active": "2503ee4558ed153c",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Criando um Port Scanner.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
     "HOMEPAGE.md",
     "Pasted image 20240909164417.png",
     "S.md",
     "conflict-files-obsidian-git.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md",
