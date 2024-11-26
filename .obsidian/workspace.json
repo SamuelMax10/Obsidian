@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "52b89b6e6e1a0e76",
+        "id": "dbbbd87ab068850c",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0f189223e46e3e",
+            "id": "53e954f2ec674258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando um PortScan de Rede"
+              "title": "Introdução Linguagem C"
+            }
+          },
+          {
+            "id": "267ce173b89948cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME - Modulo 9 - Power Shell para Pentesters"
             }
           }
         ]
@@ -77,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5,
-    "collapsed": true
+    "width": 424.5
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Criando um PortScan de Rede"
+              "title": "Links inversos para Introdução prompt de comando"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para CHECKLIST"
+              "title": "Links de saída para Introdução prompt de comando"
             }
           },
           {
@@ -140,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de CHECKLIST"
+              "title": "Sumário de Introdução prompt de comando"
             }
           },
           {
@@ -166,7 +179,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a7fc2659f89b3a13",
@@ -199,39 +213,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d0f189223e46e3e",
+  "active": "53e954f2ec674258",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Criando um Port Scanner.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
+    "Sem título",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
-    "HOMEPAGE.md",
-    "Pasted image 20240909164417.png",
-    "S.md",
-    "conflict-files-obsidian-git.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/TCPDUMP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
+    "conflict-files-obsidian-git.md",
+    "S.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/HOME - Modulo 5 - Visão geral sobre WEB e HTTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos",
+    "Pasted image 20240909164417.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Sem título",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",
@@ -245,8 +261,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux",
-    "Samuel Max",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
