@@ -5,6 +5,14 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md"
     },
     {
+      "basename": "Criando um portscan em C",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um portscan em C.md"
+    },
+    {
+      "basename": "Trabalhando com sockets em C",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Trabalhando com sockets em C.md"
+    },
+    {
       "basename": "Criando um DNS Resolver em C",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um DNS Resolver em C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Sistemas Operacionais",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md"
-    },
-    {
-      "basename": "Introdução ao Pentest",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md"
-    },
-    {
-      "basename": "Tipos de Testes de Segurança",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md"
     }
   ],
   "omittedPaths": []
