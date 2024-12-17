@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Introdução Python",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "HOME - Modulo 11 - Python3 para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md"
+    },
+    {
       "basename": "HOME - Modulo 10 - Linguagem C para Pentesters",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Introdução Linguagem C",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "Introdução ao Terminal",
@@ -191,14 +199,6 @@
     {
       "basename": "HOME - Modulo 1 - Introdução a Segurança da Informação",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/HOME - Modulo 1 - Introdução a Segurança da Informação.md"
-    },
-    {
-      "basename": "Legislação para Crimes Cibernéticos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 1 - Introdução a Segurança da Informação/Legislação para Crimes Cibernéticos.md"
-    },
-    {
-      "basename": "Sistemas Operacionais",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md"
     }
   ],
   "omittedPaths": []
