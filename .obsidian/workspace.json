@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e68c3b7d2b3671c",
+        "id": "0b4dbc1f68961ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "92315f26ac6346ef",
+            "id": "5a70f3ce1e701b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Condições e Repetições.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução Python"
+              "title": "Condições e Repetições"
             }
           }
         ]
@@ -72,23 +72,12 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "b9fd1cc4d1558bf4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
+    "width": 421.5,
     "collapsed": true
   },
   "right": {
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Introdução ao Terminal"
+              "title": "Links inversos para Introdução prompt de comando"
             }
           },
           {
@@ -124,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para CHECKLIST"
+              "title": "Links de saída para Introdução prompt de comando"
             }
           },
           {
@@ -151,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de CHECKLIST"
+              "title": "Sumário de Introdução prompt de comando"
             }
           },
           {
@@ -173,8 +162,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -198,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,41 +201,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9fd1cc4d1558bf4",
+  "active": "5a70f3ce1e701b75",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Condições e Repetições.md",
+    "Sem título.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um portscan em C.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Trabalhando com sockets em C.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um DNS Resolver em C.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Entendendo o processo de compilação.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um portscan em C.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um DNS Resolver em C.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ICMP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Argumentos e Repetições.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Trabalhando com variáveis.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Executando comandos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Entrada de Dados.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Trabalhando com variáveis.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Criando um Port Scanner.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
-    "HOMEPAGE.md",
-    "Pasted image 20240909164417.png",
-    "S.md",
+    "Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos",
+    "Pasted image 20240909164417.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Sem título",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",
@@ -258,7 +249,6 @@
     "Pasted image 20240902193901.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
