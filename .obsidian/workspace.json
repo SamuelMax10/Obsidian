@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Condições e Repetições.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condições e Repetições"
+              "title": "HOME - Modulo 11 - Python3 para Pentesters"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -203,9 +202,15 @@
   },
   "active": "5a70f3ce1e701b75",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Criando um portscan.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com sockets.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Condições e Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md",
     "Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md",
@@ -222,14 +227,8 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Argumentos e Repetições.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Trabalhando com variáveis.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Executando comandos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Entrada de Dados.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
     "Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
