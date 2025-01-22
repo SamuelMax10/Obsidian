@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Shell"
+              "title": "HOME - Modulo 12 - Swiss Army Knife"
             }
           }
         ]
@@ -212,10 +212,15 @@
   },
   "active": "99bdd69baea19d3c",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 04.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NETCAT.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 03.md",
     "().md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 04.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 03.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 02.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
@@ -233,11 +238,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Tipos de Testes de Segurança.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Modalidade de Pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
