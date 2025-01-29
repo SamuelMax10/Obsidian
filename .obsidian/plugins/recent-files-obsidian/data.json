@@ -5,8 +5,12 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
     },
     {
-      "basename": "SOCAT",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md"
+      "basename": "DEV TCP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md"
+    },
+    {
+      "basename": "Vencendo o firewall - Cenário 02",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 02.md"
     },
     {
       "basename": "NETCAT",
@@ -17,8 +21,16 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md"
     },
     {
+      "basename": "TELNET",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/TELNET.md"
+    },
+    {
       "basename": "CHECKLIST",
       "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "SOCAT",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md"
     },
     {
       "basename": "Reverse Shell",
@@ -35,10 +47,6 @@
     {
       "basename": "Wireshark",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
-    },
-    {
-      "basename": "Vencendo o firewall - Cenário 02",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 02.md"
     },
     {
       "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
@@ -191,14 +199,6 @@
     {
       "basename": "Vencendo  o firewall - Cenário 01",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo  o firewall - Cenário 01.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
-      "basename": "Port Forwarding",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Port Forwarding.md"
     }
   ],
   "omittedPaths": []
