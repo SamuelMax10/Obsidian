@@ -1,32 +1,108 @@
 {
   "recentFiles": [
     {
+      "basename": "Reverse Shell",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md"
+    },
+    {
+      "basename": "SOCAT",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md"
+    },
+    {
+      "basename": "DEV TCP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md"
+    },
+    {
       "basename": "Bind Shell",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Bind Shell.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+      "basename": "Interagindo com serviços",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Interagindo com serviços.md"
     },
     {
       "basename": "Netcat",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md"
     },
     {
-      "basename": "HOME - Modulo 12 - Swiss Army Knife",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
+      "basename": "HOME - Modulo 11 - Python3 para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md"
+    },
+    {
+      "basename": "Banner Grabbing em Python",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md"
+    },
+    {
+      "basename": "Introdução Python",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md"
+    },
+    {
+      "basename": "Trabalhando com argumentos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md"
+    },
+    {
+      "basename": "Protocolo TCP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
+    },
+    {
+      "basename": "Bytes na Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
+    },
+    {
+      "basename": "3WHS - Three-way Handshake",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
+    },
+    {
+      "basename": "Wireshark",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
+    },
+    {
+      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
+    },
+    {
+      "basename": "Criando um PortScan de Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Introdução ao Terminal",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
     },
     {
       "basename": "Port Forwarding",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Port Forwarding.md"
     },
     {
-      "basename": "Introdução ao Terminal",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
+      "basename": "HOME - Modulo 12 - Swiss Army Knife",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
+    },
+    {
+      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
+    },
+    {
+      "basename": "Gerenciando Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
+    },
+    {
+      "basename": "Fragmentação de Pacotes IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Samuel Max/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "Introdução ao Bash Scripting",
@@ -35,10 +111,6 @@
     {
       "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
-    },
-    {
-      "basename": "Criando um PortScan de Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
     },
     {
       "basename": "Criando um portscan",
@@ -53,16 +125,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com Web.md"
     },
     {
-      "basename": "HOME - Modulo 11 - Python3 para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md"
-    },
-    {
       "basename": "HOME - Modulo 3 - Dominando o terminal do Linux",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md"
-    },
-    {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
     },
     {
       "basename": "Condições e Repetições",
@@ -71,14 +135,6 @@
     {
       "basename": "Criando um DNS Resolver em Python",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Criando um DNS Resolver em Python.md"
-    },
-    {
-      "basename": "Banner Grabbing em Python",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md"
-    },
-    {
-      "basename": "Trabalhando com argumentos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md"
     },
     {
       "basename": "Analise de Tráfego - Portscan",
@@ -93,24 +149,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com sockets.md"
     },
     {
-      "basename": "Introdução Python",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md"
-    },
-    {
-      "basename": "Interagindo com serviços",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Interagindo com serviços.md"
-    },
-    {
       "basename": "Criando um DNS Resolver em C",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um DNS Resolver em C.md"
-    },
-    {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
-    },
-    {
-      "basename": "Localizando arquivos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
     },
     {
       "basename": "Overview sobre Web e HTTP",
@@ -137,18 +177,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
     },
     {
-      "basename": "Fragmentação de Pacotes IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
-    },
-    {
-      "basename": "Bytes na Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
-    },
-    {
-      "basename": "3WHS - Three-way Handshake",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
-    },
-    {
       "basename": "HOME - Modulo 10 - Linguagem C para Pentesters",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md"
     },
@@ -167,38 +195,6 @@
     {
       "basename": "Trabalhando com Condições",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
-    },
-    {
-      "basename": "Trabalhando com Argumento",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
-    },
-    {
-      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
-    },
-    {
-      "basename": "Condições e Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Condições e Repetições.md"
-    },
-    {
-      "basename": "Introdução Power Shell (Windows)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md"
-    },
-    {
-      "basename": "Wireshark",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
-    },
-    {
-      "basename": "Introdução prompt de comando",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 4 - Dominando o prompt do Windows/Introdução prompt de comando.md"
-    },
-    {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
-      "basename": "TCPDUMP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/TCPDUMP.md"
     }
   ],
   "omittedPaths": []
