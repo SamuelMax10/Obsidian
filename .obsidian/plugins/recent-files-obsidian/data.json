@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Vazamento de Daodos (Leaks)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md"
+    },
+    {
+      "basename": "HOME - Modulo 13 - Information Gathering - Business",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
+    },
+    {
+      "basename": "Coletando endereços de e-mail",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md"
+    },
+    {
+      "basename": "Mapeando Colaboradores",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
+    },
+    {
+      "basename": "Information Gathering",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Samuel Max/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "Time To Live - TTL",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Time To Live - TTL.md"
+    },
+    {
+      "basename": "Protocolo UDP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo UDP.md"
+    },
+    {
+      "basename": "Protocolo TCP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
+    },
+    {
+      "basename": "Protocolo ICMP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ICMP.md"
+    },
+    {
+      "basename": "Protocolo Ethernet",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md"
+    },
+    {
+      "basename": "Protocolo de Redes",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md"
+    },
+    {
+      "basename": "Protocolo ARP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md"
+    },
+    {
+      "basename": "Introdução as Redes TCP IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
+    },
+    {
+      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
+    },
+    {
+      "basename": "Fragmentação de Pacotes IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
+    },
+    {
+      "basename": "Entendendo o PING",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o PING.md"
+    },
+    {
+      "basename": "Entendendo o DNS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md"
+    },
+    {
+      "basename": "Bytes na Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
+    },
+    {
+      "basename": "3WHS - Three-way Handshake",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
+    },
+    {
+      "basename": "Protocolo IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md"
+    },
+    {
       "basename": "Reverse Shell",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md"
     },
@@ -41,18 +125,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md"
     },
     {
-      "basename": "Protocolo TCP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md"
-    },
-    {
-      "basename": "Bytes na Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
-    },
-    {
-      "basename": "3WHS - Three-way Handshake",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
-    },
-    {
       "basename": "Wireshark",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
     },
@@ -81,16 +153,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
     },
     {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
       "basename": "Gerenciando Rede",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "Fragmentação de Pacotes IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
     },
     {
       "basename": "Localizando arquivos",
@@ -99,10 +163,6 @@
     {
       "basename": "Ganhando tempo",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Samuel Max/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "Introdução ao Bash Scripting",
@@ -139,62 +199,6 @@
     {
       "basename": "Analise de Tráfego - Portscan",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md"
-    },
-    {
-      "basename": "Argumentos e Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Argumentos e Repetições.md"
-    },
-    {
-      "basename": "Trabalhando com sockets",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com sockets.md"
-    },
-    {
-      "basename": "Criando um DNS Resolver em C",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Criando um DNS Resolver em C.md"
-    },
-    {
-      "basename": "Overview sobre Web e HTTP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP/Overview sobre Web e HTTP.md"
-    },
-    {
-      "basename": "Protocolo ICMP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ICMP.md"
-    },
-    {
-      "basename": "Protocolo Ethernet",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md"
-    },
-    {
-      "basename": "Protocolo de Redes",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md"
-    },
-    {
-      "basename": "Protocolo ARP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md"
-    },
-    {
-      "basename": "Introdução as Redes TCP IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
-    },
-    {
-      "basename": "HOME - Modulo 10 - Linguagem C para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/HOME - Modulo 10 - Linguagem C para Pentesters.md"
-    },
-    {
-      "basename": "HOME - Modulo 9 - Power Shell para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md"
-    },
-    {
-      "basename": "Introdução Linguagem C",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters/Introdução Linguagem C.md"
-    },
-    {
-      "basename": "Trabalhando com Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
-    },
-    {
-      "basename": "Trabalhando com Condições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
     }
   ],
   "omittedPaths": []

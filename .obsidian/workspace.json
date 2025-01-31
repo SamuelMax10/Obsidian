@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Shell"
+              "title": "Vazamento de Daodos (Leaks)"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -107,6 +108,7 @@
       {
         "id": "e295e938c3112d34",
         "type": "tabs",
+        "dimension": 29.629629629629626,
         "children": [
           {
             "id": "73000b76b78caa69",
@@ -142,28 +144,18 @@
             }
           },
           {
-            "id": "9e47a5132dab5d98",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "718f0114c417bbf7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CHECKLIST"
+              "title": "Sumário de Vazamento de Daodos (Leaks)"
             }
           },
           {
@@ -172,8 +164,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -182,16 +174,17 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a7fc2659f89b3a13",
         "type": "tabs",
+        "dimension": 70.37037037037037,
         "children": [
           {
             "id": "537801ef837cf215",
@@ -199,56 +192,56 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "graph:Abrir visualização em gráfico": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:Abrir visualização em gráfico": false
     }
   },
   "active": "5b89a4a3457d8a8b",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Bind Shell.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md",
-    "conflict-files-obsidian-git.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 04.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 03.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 02.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo  o firewall - Cenário 01.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/TELNET.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Interagindo com serviços.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Trabalhando com argumentos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md",
+    "Mapeando Colaboradores.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
+    "Sem título.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
+    "Samuel Max/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Time To Live - TTL.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo UDP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo TCP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ICMP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o PING.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
@@ -268,7 +261,6 @@
     "Pasted image 20240902193957.png",
     "Pasted image 20240902193901.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 5 - Visão geral sobre WEB e HTTP",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
