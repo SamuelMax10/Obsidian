@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb15a8515ac8b96",
+        "id": "71ce0c57c60f78df",
         "type": "tabs",
         "children": [
           {
-            "id": "99bdd69baea19d3c",
+            "id": "a6a9935944423de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bytes na Rede"
-            }
-          },
-          {
-            "id": "336846e873c70467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gerenciando Rede"
-            }
-          },
-          {
-            "id": "3e433c60c2ee1bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introdução ao Google Hacking"
+              "title": "Criando um script para analise de metadados"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +83,16 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "8fa285d15f360416",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -126,6 +107,7 @@
       {
         "id": "e295e938c3112d34",
         "type": "tabs",
+        "dimension": 29.629629629629626,
         "children": [
           {
             "id": "73000b76b78caa69",
@@ -161,28 +143,18 @@
             }
           },
           {
-            "id": "9e47a5132dab5d98",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "718f0114c417bbf7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CHECKLIST"
+              "title": "Sumário de Vazamento de Daodos (Leaks)"
             }
           },
           {
@@ -201,8 +173,23 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ddde4d5389774200",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
@@ -211,6 +198,7 @@
       {
         "id": "a7fc2659f89b3a13",
         "type": "tabs",
+        "dimension": 70.37037037037037,
         "children": [
           {
             "id": "537801ef837cf215",
@@ -226,50 +214,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
+    "width": 370.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "graph:Abrir visualização em gráfico": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "3e433c60c2ee1bc4",
+  "active": "a6a9935944423de6",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
-    "Cybersecurity/Pentest - Novo Profissional/Sem título",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/TheHarvester.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NETCAT.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Vencendo o firewall - Cenário 02.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Sem título",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/TELNET.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md",
+    "Pasted image 20250211165908.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Daodos (Leaks).md",
+    "Mapeando Colaboradores.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
@@ -287,7 +275,7 @@
     "Pasted image 20240902194851.png",
     "Pasted image 20240902194038.png",
     "Pasted image 20240902193957.png",
-    "Pasted image 20240902193901.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
