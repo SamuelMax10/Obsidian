@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "HOME - Modulo 13 - Information Gathering - Business",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
-    },
-    {
-      "basename": "Localizando arquivos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
-    },
-    {
-      "basename": "Introdução ao Google Hacking",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+      "basename": "Coletando dados no Pastebin",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md"
     },
     {
       "basename": "Buscando cache de sites",
@@ -25,24 +13,44 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md"
     },
     {
-      "basename": "Coletando dados no Pastebin",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md"
-    },
-    {
-      "basename": "Vazamento de Dados (Leaks)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md"
-    },
-    {
       "basename": "Coletando endereços de e-mail",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md"
+    },
+    {
+      "basename": "HOME - Modulo 13 - Information Gathering - Business",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
+    },
+    {
+      "basename": "Information Gathering",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
     },
     {
       "basename": "Mapeando Colaboradores",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
     },
     {
-      "basename": "Information Gathering",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
+      "basename": "Introdução ao Google Hacking",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
+    },
+    {
+      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
+    },
+    {
+      "basename": "Aspas duplas e aspas simples",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "Vazamento de Dados (Leaks)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md"
     },
     {
       "basename": "Gerenciando Rede",
@@ -191,10 +199,6 @@
     {
       "basename": "Metodologias de Pentest",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Metodologias de Pentest.md"
-    },
-    {
-      "basename": "Introdução ao Pentest",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Introdução ao Pentest.md"
     }
   ],
   "omittedPaths": []
