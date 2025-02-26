@@ -5,6 +5,10 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Banner Grabbing em Python",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md"
-    },
-    {
-      "basename": "Introdução Python",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md"
     }
   ],
   "omittedPaths": []
