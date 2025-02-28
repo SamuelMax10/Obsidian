@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Variáveis",
+      "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
+    },
+    {
       "basename": "Criando um script para analise de metadados",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md"
     },
     {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+      "basename": "Buscando domínios similares",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md"
+    },
+    {
+      "basename": "Buscando cache de sites",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
+    },
+    {
+      "basename": "HOME - Python para pentest",
+      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
+    },
+    {
+      "basename": "Diferença de aspas simples e aspas duplas",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
+    },
+    {
+      "basename": "HOME - Modulo 13 - Information Gathering - Business",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Metadados",
@@ -45,10 +73,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
     },
     {
-      "basename": "Diferença de aspas simples e aspas duplas",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
-    },
-    {
       "basename": "Trabalhando com Repetições",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
     },
@@ -73,24 +97,12 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
-      "basename": "Buscando domínios similares",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md"
-    },
-    {
       "basename": "Coletando dados no Pastebin",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md"
     },
     {
       "basename": "Coletando endereços de e-mail",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md"
-    },
-    {
-      "basename": "HOME - Modulo 13 - Information Gathering - Business",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
-    },
-    {
-      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
     },
     {
       "basename": "Gerenciando Rede",
@@ -103,10 +115,6 @@
     {
       "basename": "Trabalhando com pacotes",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Samuel Max/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "Time To Live - TTL",
@@ -191,10 +199,6 @@
     {
       "basename": "HOME - Modulo 11 - Python3 para Pentesters",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md"
-    },
-    {
-      "basename": "Banner Grabbing em Python",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md"
     }
   ],
   "omittedPaths": []

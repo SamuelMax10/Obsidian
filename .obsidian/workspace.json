@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
+                "file": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando um script para analise de metadados"
-            }
-          },
-          {
-            "id": "f52286819c927f63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Variáveis"
             }
           }
         ]
@@ -106,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -241,14 +230,26 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "a6a9935944423de6",
+  "active": "b9fd1cc4d1558bf4",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
+    "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - O que é a programação/Sem título.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - O que é a programação/Sequencia de instruções.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Samuel Max/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
+    "Cybersecurity/Python para pentest",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "conflict-files-obsidian-git.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
@@ -257,18 +258,8 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/TheHarvester.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
     "Pasted image 20250211165908.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
@@ -279,7 +270,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Sem título",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Sem título",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",
     "Pasted image 20240904213402.png",
@@ -288,7 +278,6 @@
     "Pasted image 20240902194851.png",
     "Pasted image 20240902194038.png",
     "Pasted image 20240902193957.png",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Sem título.canvas"
   ]
 }
