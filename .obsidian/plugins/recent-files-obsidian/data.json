@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Operações de textos",
+      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
+    },
+    {
+      "basename": "HOME - Python para pentest",
+      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "Operações matemáticas",
+      "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
+    },
+    {
       "basename": "Variáveis",
       "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Buscando cache de sites",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
-    },
-    {
-      "basename": "HOME - Python para pentest",
-      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
@@ -91,10 +103,6 @@
     {
       "basename": "Trabalhando com Argumento",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
-    },
-    {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
       "basename": "Coletando dados no Pastebin",
@@ -191,14 +199,6 @@
     {
       "basename": "Interagindo com serviços",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Interagindo com serviços.md"
-    },
-    {
-      "basename": "Netcat",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md"
-    },
-    {
-      "basename": "HOME - Modulo 11 - Python3 para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/HOME - Modulo 11 - Python3 para Pentesters.md"
     }
   ],
   "omittedPaths": []
