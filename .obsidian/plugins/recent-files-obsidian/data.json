@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Operações de textos",
-      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
-    },
-    {
       "basename": "HOME - Python para pentest",
       "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
     {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+      "basename": "Operações com listas",
+      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md"
+    },
+    {
+      "basename": "O que é uma lista?",
+      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md"
+    },
+    {
+      "basename": "Entrada de números",
+      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md"
+    },
+    {
+      "basename": "Como usar o input()",
+      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md"
+    },
+    {
+      "basename": "Operações de textos",
+      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
     },
     {
       "basename": "Operações matemáticas",
@@ -19,6 +31,10 @@
     {
       "basename": "Variáveis",
       "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
       "basename": "Criando um script para analise de metadados",
@@ -183,22 +199,6 @@
     {
       "basename": "Reverse Shell",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md"
-    },
-    {
-      "basename": "SOCAT",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/SOCAT.md"
-    },
-    {
-      "basename": "DEV TCP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/DEV TCP.md"
-    },
-    {
-      "basename": "Bind Shell",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Bind Shell.md"
-    },
-    {
-      "basename": "Interagindo com serviços",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Interagindo com serviços.md"
     }
   ],
   "omittedPaths": []

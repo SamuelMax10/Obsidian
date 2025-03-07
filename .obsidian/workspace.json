@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
+                "file": "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operações de textos"
+              "title": "HOME - Python para pentest"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5,
-    "collapsed": true
+    "width": 355.5
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -231,15 +230,21 @@
   },
   "active": "a6a9935944423de6",
   "lastOpenFiles": [
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md",
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
     "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas",
+    "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
+    "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md",
     "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
-    "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
+    "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas",
     "Cybersecurity/Python para pentest/Sem título.md",
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Sem título.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md",
@@ -257,18 +262,12 @@
     "conflict-files-obsidian-git.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md",
     "Pasted image 20250211165908.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
     "Pasted image 20240909164417.png",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",
     "Pasted image 20240904213402.png",
