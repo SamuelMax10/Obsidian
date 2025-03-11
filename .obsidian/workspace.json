@@ -94,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,11 +229,17 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "a6a9935944423de6",
+  "active": "b9fd1cc4d1558bf4",
   "lastOpenFiles": [
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Sem título",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md",
-    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições",
     "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md",
@@ -258,15 +265,9 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
     "Cybersecurity/Python para pentest",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Sem título.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "conflict-files-obsidian-git.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md",
     "Pasted image 20250211165908.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 10 - Linguagem C para Pentesters",
     "Pasted image 20240909164417.png",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",

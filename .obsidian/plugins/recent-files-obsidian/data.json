@@ -5,6 +5,22 @@
       "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
     {
+      "basename": "Operadores de comparação e lógicos",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md"
+    },
+    {
+      "basename": "Condição if",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md"
+    },
+    {
+      "basename": "Caso contrario (else)",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
+    },
+    {
+      "basename": "Condição elif",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md"
+    },
+    {
       "basename": "Operações com listas",
       "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Entendendo o PING",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o PING.md"
-    },
-    {
-      "basename": "Entendendo o DNS",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o DNS.md"
-    },
-    {
-      "basename": "3WHS - Three-way Handshake",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/3WHS - Three-way Handshake.md"
-    },
-    {
-      "basename": "Protocolo IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo IP.md"
-    },
-    {
-      "basename": "Reverse Shell",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Reverse Shell.md"
     }
   ],
   "omittedPaths": []
