@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME - Python para pentest"
+              "title": "IANA"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,14 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "b9fd1cc4d1558bf4",
+  "active": "a6a9935944423de6",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
+    "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
@@ -238,7 +243,6 @@
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições",
-    "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
@@ -260,14 +264,9 @@
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Samuel Max/HOME - Pentest Novo Profissional.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
     "Cybersecurity/Python para pentest",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Sem título.md",
     "Pasted image 20250211165908.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife",
     "Pasted image 20240909164417.png",
     "Pasted image 20240904231451.png",
     "Pasted image 20240904222304.png",

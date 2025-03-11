@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "IANA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
+    },
+    {
+      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
+    },
+    {
       "basename": "HOME - Python para pentest",
       "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "HOME - Modulo 13 - Information Gathering - Business",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Metadados",
@@ -187,18 +199,6 @@
     {
       "basename": "Introdução as Redes TCP IP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
-    },
-    {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
-      "basename": "Fragmentação de Pacotes IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Fragmentação de Pacotes IP.md"
-    },
-    {
-      "basename": "Entendendo o PING",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Entendendo o PING.md"
     }
   ],
   "omittedPaths": []
