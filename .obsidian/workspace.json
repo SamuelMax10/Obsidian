@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IANA"
+              "title": "Coletando informações com Whois"
             }
           }
         ]
@@ -230,10 +230,15 @@
   },
   "active": "a6a9935944423de6",
   "lastOpenFiles": [
+    "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
     "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
@@ -247,7 +252,6 @@
     "Cybersecurity/Python para pentest/Modulo 5 - Listas",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md",
-    "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario",
@@ -259,11 +263,7 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - O que é a programação/Sem título.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - O que é a programação/Sequencia de instruções.md",
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
-    "Samuel Max/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Python para pentest",
     "Pasted image 20250211165908.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business",

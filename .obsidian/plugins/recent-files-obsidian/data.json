@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Coletando informações com Whois",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md"
+    },
+    {
+      "basename": "Operações de textos",
+      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
+    },
+    {
+      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "Wireshark",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
+    },
+    {
+      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
+    },
+    {
       "basename": "IANA",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
-      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
     },
     {
       "basename": "HOME - Python para pentest",
@@ -53,10 +73,6 @@
       "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md"
     },
     {
-      "basename": "Operações de textos",
-      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
-    },
-    {
       "basename": "Operações matemáticas",
       "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "Buscando cache de sites",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
-    },
-    {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
       "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
@@ -187,18 +199,6 @@
     {
       "basename": "Protocolo Ethernet",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md"
-    },
-    {
-      "basename": "Protocolo de Redes",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo de Redes.md"
-    },
-    {
-      "basename": "Protocolo ARP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ARP.md"
-    },
-    {
-      "basename": "Introdução as Redes TCP IP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
     }
   ],
   "omittedPaths": []
