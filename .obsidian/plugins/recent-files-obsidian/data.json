@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Coletando informações com Whois",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md"
+      "basename": "Introdução ao Google Hacking",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
+    },
+    {
+      "basename": "Information Gathering",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
+    },
+    {
+      "basename": "Google Dork , GHDB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md"
+    },
+    {
+      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
+    },
+    {
+      "basename": "Criando um Whois em python",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md"
     },
     {
       "basename": "Operações de textos",
       "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
     },
     {
-      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
+      "basename": "Coletando informações com Whois",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
@@ -113,18 +129,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md"
     },
     {
-      "basename": "Google Dork , GHDB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md"
-    },
-    {
-      "basename": "Information Gathering",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
-    },
-    {
-      "basename": "Introdução ao Google Hacking",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
-    },
-    {
       "basename": "Mapeando Colaboradores",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Protocolo ICMP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo ICMP.md"
-    },
-    {
-      "basename": "Protocolo Ethernet",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Protocolo Ethernet.md"
     }
   ],
   "omittedPaths": []
