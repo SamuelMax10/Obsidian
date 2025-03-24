@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução ao Google Hacking"
+              "title": "Criando um Whois em python"
             }
           }
         ]
@@ -230,6 +230,9 @@
   },
   "active": "a6a9935944423de6",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
@@ -258,11 +261,8 @@
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
     "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas",
-    "Cybersecurity/Python para pentest/Sem título.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Sem título.md",
     "Cybersecurity/Python para pentest/Modulo 1 - Variáveis",
     "Cybersecurity/Python para pentest",
     "Pasted image 20250211165908.png",
