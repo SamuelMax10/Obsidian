@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "O que é uma lista",
+      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
+    },
+    {
       "basename": "Protocolo RDAP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Criando um Whois em python",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md"
-    },
-    {
-      "basename": "O que é uma lista?",
-      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md"
     },
     {
       "basename": "Operações com listas",
