@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando um Whois em python"
+              "title": "HOME - Modulo 14 - Information Gathering - INFRA"
             }
           }
         ]
@@ -230,20 +230,23 @@
   },
   "active": "a6a9935944423de6",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
+    "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md",
     "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md",
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md",
     "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA",
@@ -252,14 +255,11 @@
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Sem título",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
-    "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições",
-    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista?.md",
     "Cybersecurity/Python para pentest/Modulo 5 - Listas",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario",
     "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas",
