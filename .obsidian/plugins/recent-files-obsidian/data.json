@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Pesquisa Domain Name System",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa Domain Name System.md"
+    },
+    {
       "basename": "Pesquisa no Shodan",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
-    },
-    {
-      "basename": "Protocolo RDAP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
-    },
-    {
-      "basename": "IANA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md"
-    },
-    {
-      "basename": "Mapeando a Infra - BGP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Mapeando a Infra - BGP.md"
     },
     {
       "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
     },
     {
-      "basename": "O que é uma lista",
-      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
+      "basename": "Protocolo RDAP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
+      "basename": "Pesquisa no Censys",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Censys.md"
+    },
+    {
+      "basename": "Utilizando a API do Shodan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Utilizando a API do Shodan.md"
+    },
+    {
+      "basename": "O que é uma lista",
+      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
+    },
+    {
       "basename": "CHECKLIST",
       "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "IANA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md"
     },
     {
       "basename": "Coletando informações com Whois",
@@ -191,14 +199,6 @@
     {
       "basename": "Localizando arquivos",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
-    },
-    {
-      "basename": "Trabalhando com pacotes",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
-    },
-    {
-      "basename": "Time To Live - TTL",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Time To Live - TTL.md"
     }
   ],
   "omittedPaths": []
