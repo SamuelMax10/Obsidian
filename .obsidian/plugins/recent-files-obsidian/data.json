@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Subdomain Takeover",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Subdomain Takeover.md"
+    },
+    {
+      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
+    },
+    {
+      "basename": "Analisando SPF",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Analisando SPF.md"
+    },
+    {
+      "basename": "Pesquisa no Shodan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
+    },
+    {
+      "basename": "Protocolo RDAP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
+    },
+    {
+      "basename": "Transferência de Zona",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Transferência de Zona.md"
+    },
+    {
+      "basename": "Utilizando a API do Shodan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Utilizando a API do Shodan.md"
+    },
+    {
+      "basename": "Trabalhando com Repetições",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
+    },
+    {
+      "basename": "Trabalhando com Condições",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
+    },
+    {
+      "basename": "Trabalhando com Argumento",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
+    },
+    {
+      "basename": "Introdução ao Bash Scripting",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md"
+    },
+    {
+      "basename": "Diferença de aspas simples e aspas duplas",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
+    },
+    {
+      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
+    },
+    {
+      "basename": "Criando um PortScan de Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
+    },
+    {
+      "basename": "Aspas duplas e aspas simples",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md"
+    },
+    {
       "basename": "Ganhando tempo",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
       "basename": "Localizando arquivos",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
-    },
-    {
-      "basename": "Transferência de Zona",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Transferência de Zona.md"
     },
     {
       "basename": "Introdução ao Terminal",
@@ -25,56 +81,12 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
     },
     {
-      "basename": "Trabalhando com Condições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
-    },
-    {
-      "basename": "Trabalhando com Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
-    },
-    {
-      "basename": "Trabalhando com Argumento",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
-    },
-    {
-      "basename": "Introdução ao Bash Scripting",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md"
-    },
-    {
-      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
-    },
-    {
-      "basename": "Diferença de aspas simples e aspas duplas",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
-    },
-    {
-      "basename": "Criando um PortScan de Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
-    },
-    {
-      "basename": "Aspas duplas e aspas simples",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md"
-    },
-    {
       "basename": "CHECKLIST",
       "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
-      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
-    },
-    {
       "basename": "Pesquisa Domain Name System",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa Domain Name System.md"
-    },
-    {
-      "basename": "Pesquisa no Shodan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
-    },
-    {
-      "basename": "Protocolo RDAP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",
@@ -83,10 +95,6 @@
     {
       "basename": "Pesquisa no Censys",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Censys.md"
-    },
-    {
-      "basename": "Utilizando a API do Shodan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Utilizando a API do Shodan.md"
     },
     {
       "basename": "O que é uma lista",
@@ -191,14 +199,6 @@
     {
       "basename": "Metadados",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md"
-    },
-    {
-      "basename": "Mapeando Colaboradores",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
-    },
-    {
-      "basename": "TheHarvester",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/TheHarvester.md"
     }
   ],
   "omittedPaths": []
