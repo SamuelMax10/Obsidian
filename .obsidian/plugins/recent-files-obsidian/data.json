@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "6.8 Relato de eventos de segurança da informação",
+      "path": "ISO27002/Controle de pessoa/6.8 Relato de eventos de segurança da informação.md"
+    },
+    {
+      "basename": "6.7 Trabalho remoto",
+      "path": "ISO27002/Controle de pessoa/6.7 Trabalho remoto.md"
+    },
+    {
+      "basename": "6.6 Acordos de confidencialidade ou não divulgação",
+      "path": "ISO27002/Controle de pessoa/6.6 Acordos de confidencialidade ou não divulgação.md"
+    },
+    {
+      "basename": "6.5 Responsabilidades após encerramento ou mudança da contratação",
+      "path": "ISO27002/Controle de pessoa/6.5 Responsabilidades após encerramento ou mudança da contratação.md"
+    },
+    {
+      "basename": "6.4 Processo disciplinar",
+      "path": "ISO27002/Controle de pessoa/6.4 Processo disciplinar.md"
+    },
+    {
+      "basename": "6.3 Conscientização, educação e treinamento em segurança da informação",
+      "path": "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md"
+    },
+    {
+      "basename": "HOME - Controle de pessoa",
+      "path": "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md"
+    },
+    {
+      "basename": "6.2 Termos e condições de contratação",
+      "path": "ISO27002/Controle de pessoa/6.2 Termos e condições de contratação.md"
+    },
+    {
+      "basename": "6.1 Seleção",
+      "path": "ISO27002/Controle de pessoa/6.1 Seleção.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "HOME - Controle físico",
+      "path": "ISO27002/Controle físico/HOME - Controle físico.md"
+    },
+    {
+      "basename": "Introdução ao Terminal",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
+    },
+    {
       "basename": "Pesquisa Domain Name System",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa Domain Name System.md"
     },
@@ -51,10 +99,6 @@
     {
       "basename": "HOME - Modulo 3 - Dominando o terminal do Linux",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md"
-    },
-    {
-      "basename": "Introdução ao Terminal",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
     },
     {
       "basename": "Localizando arquivos",
@@ -141,10 +185,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
       "basename": "O que é uma lista",
       "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Introdução ao Google Hacking",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
-    },
-    {
-      "basename": "Information Gathering",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
-    },
-    {
-      "basename": "Google Dork , GHDB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md"
-    },
-    {
-      "basename": "Operações de textos",
-      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
-    },
-    {
-      "basename": "Wireshark",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
-    },
-    {
-      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
-    },
-    {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
-      "basename": "HOME - Python para pentest",
-      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
-    },
-    {
-      "basename": "Operadores de comparação e lógicos",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md"
-    },
-    {
-      "basename": "Condição if",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md"
-    },
-    {
-      "basename": "Caso contrario (else)",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
     }
   ],
   "omittedPaths": []
