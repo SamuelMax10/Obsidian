@@ -21,20 +21,20 @@
       "path": "ISO27002/Controle de pessoa/6.4 Processo disciplinar.md"
     },
     {
-      "basename": "6.3 Conscientização, educação e treinamento em segurança da informação",
-      "path": "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md"
-    },
-    {
-      "basename": "HOME - Controle de pessoa",
-      "path": "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md"
-    },
-    {
       "basename": "6.2 Termos e condições de contratação",
       "path": "ISO27002/Controle de pessoa/6.2 Termos e condições de contratação.md"
     },
     {
       "basename": "6.1 Seleção",
       "path": "ISO27002/Controle de pessoa/6.1 Seleção.md"
+    },
+    {
+      "basename": "HOME - Controle de pessoa",
+      "path": "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md"
+    },
+    {
+      "basename": "6.3 Conscientização, educação e treinamento em segurança da informação",
+      "path": "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md"
     },
     {
       "basename": "HOME - Pentest Novo Profissional",

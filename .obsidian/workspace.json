@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -232,14 +231,14 @@
   "active": "4fc00fee6757e3c2",
   "lastOpenFiles": [
     "ISO27002/Controle de pessoa/6.7 Trabalho remoto.md",
-    "ISO27002/Controle de pessoa/6.8 Relato de eventos de segurança da informação.md",
     "ISO27002/Controle de pessoa/6.6 Acordos de confidencialidade ou não divulgação.md",
     "ISO27002/Controle de pessoa/6.5 Responsabilidades após encerramento ou mudança da contratação.md",
     "ISO27002/Controle de pessoa/6.4 Processo disciplinar.md",
-    "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md",
-    "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md",
     "ISO27002/Controle de pessoa/6.2 Termos e condições de contratação.md",
     "ISO27002/Controle de pessoa/6.1 Seleção.md",
+    "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md",
+    "ISO27002/Controle de pessoa/6.8 Relato de eventos de segurança da informação.md",
+    "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "ISO27002/Controle físico/HOME - Controle físico.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
