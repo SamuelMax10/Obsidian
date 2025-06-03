@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "1.2 Dados organizacionais",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.2 Dados organizacionais.md"
+    },
+    {
+      "basename": "1.1 O mundo da segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md"
+    },
+    {
+      "basename": "1.4 Invasores cibernéticos",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.4 Invasores cibernéticos.md"
+    },
+    {
+      "basename": "1.5 Guerra cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.5 Guerra cibernética.md"
+    },
+    {
+      "basename": "HOME - Modulo 1 - Introdução à segurança da Cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/HOME - Modulo 1 - Introdução à segurança da Cibernética.md"
+    },
+    {
+      "basename": "HOME - Introduction to Cybersecurity",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
+    },
+    {
+      "basename": "HOME - Python para pentest",
+      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
       "basename": "Conhecendo o Curl",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md"
     },
@@ -69,10 +101,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
       "basename": "Vazamento de Dados (Leaks)",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md"
     },
@@ -115,46 +143,6 @@
     {
       "basename": "Buscando cache de sites",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
-    },
-    {
-      "basename": "6.8 Relato de eventos de segurança da informação",
-      "path": "ISO27002/Controle de pessoa/6.8 Relato de eventos de segurança da informação.md"
-    },
-    {
-      "basename": "6.7 Trabalho remoto",
-      "path": "ISO27002/Controle de pessoa/6.7 Trabalho remoto.md"
-    },
-    {
-      "basename": "6.6 Acordos de confidencialidade ou não divulgação",
-      "path": "ISO27002/Controle de pessoa/6.6 Acordos de confidencialidade ou não divulgação.md"
-    },
-    {
-      "basename": "6.5 Responsabilidades após encerramento ou mudança da contratação",
-      "path": "ISO27002/Controle de pessoa/6.5 Responsabilidades após encerramento ou mudança da contratação.md"
-    },
-    {
-      "basename": "6.4 Processo disciplinar",
-      "path": "ISO27002/Controle de pessoa/6.4 Processo disciplinar.md"
-    },
-    {
-      "basename": "6.2 Termos e condições de contratação",
-      "path": "ISO27002/Controle de pessoa/6.2 Termos e condições de contratação.md"
-    },
-    {
-      "basename": "6.1 Seleção",
-      "path": "ISO27002/Controle de pessoa/6.1 Seleção.md"
-    },
-    {
-      "basename": "HOME - Controle de pessoa",
-      "path": "ISO27002/Controle de pessoa/HOME - Controle de pessoa.md"
-    },
-    {
-      "basename": "6.3 Conscientização, educação e treinamento em segurança da informação",
-      "path": "ISO27002/Controle de pessoa/6.3 Conscientização, educação e treinamento em segurança da informação.md"
-    },
-    {
-      "basename": "HOME - Controle físico",
-      "path": "ISO27002/Controle físico/HOME - Controle físico.md"
     },
     {
       "basename": "Pesquisa Domain Name System",
