@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.2 Dados organizacionais.md",
+                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Dados organizacionais"
+              "title": "3.1 Como proteger a rede e os dispositivos"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
-    "collapsed": true
+    "width": 462.5
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -231,13 +230,22 @@
   },
   "active": "bcb6ad1721f23dbb",
   "lastOpenFiles": [
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/HOME - Modulo 2 - Ataques, conceitos e técnicas.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.4 O cenário da cibersegurança.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.3 Exploits e vulnerabilidade de segurança.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.2 Dados organizacionais.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/HOME - Modulo 1 - Introdução à segurança da Cibernética.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.4 Invasores cibernéticos.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.5 Guerra cibernética.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/HOME - Modulo 1 - Introdução à segurança da Cibernética.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
     "Cybersecurity/Python para pentest/HOME - Python para pentest.md",
     "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity",
@@ -252,21 +260,12 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB",
     "ISO27002/Controle físico",
     "ISO27002/Controle de pessoa",
     "ISO27002",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Sem título",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições",
-    "Cybersecurity/Python para pentest/Modulo 5 - Listas",
     "Pasted image 20250211165908.png",
     "Pasted image 20240909164417.png",
     "Pasted image 20240904231451.png",
