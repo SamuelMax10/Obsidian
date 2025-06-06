@@ -2,4 +2,6 @@
 ---
 
 1. [[3.1 Como proteger a rede e os dispositivos]]
-2. 
+2. [[3.2 Manutenção de dados]]
+3. [[3.3 Quem é o dono dos seus dados?]]
+4. 

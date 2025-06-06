@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
+                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Como proteger a rede e os dispositivos"
+              "title": "3.4 Como proteger a privacidade on-line"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 462.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -231,7 +232,11 @@
   "active": "bcb6ad1721f23dbb",
   "lastOpenFiles": [
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.3 Quem é o dono dos seus dados?.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.2 Manutenção de dados.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/HOME - Modulo 2 - Ataques, conceitos e técnicas.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade",
@@ -240,7 +245,6 @@
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.2 Dados organizacionais.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/HOME - Modulo 1 - Introdução à segurança da Cibernética.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.4 Invasores cibernéticos.md",
@@ -257,9 +261,6 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Robots e Sitemap.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB",
     "ISO27002/Controle físico",
     "ISO27002/Controle de pessoa",

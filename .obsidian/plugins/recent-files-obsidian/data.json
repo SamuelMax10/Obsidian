@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "3.1 Como proteger a rede e os dispositivos",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md"
+      "basename": "3.4 Como proteger a privacidade on-line",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md"
     },
     {
       "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md"
+    },
+    {
+      "basename": "3.3 Quem é o dono dos seus dados?",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.3 Quem é o dono dos seus dados?.md"
+    },
+    {
+      "basename": "3.2 Manutenção de dados",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.2 Manutenção de dados.md"
+    },
+    {
+      "basename": "3.1 Como proteger a rede e os dispositivos",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md"
+    },
+    {
+      "basename": "HOME - Introduction to Cybersecurity",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
     },
     {
       "basename": "HOME - Modulo 2 - Ataques, conceitos e técnicas",
@@ -35,10 +51,6 @@
     {
       "basename": "1.1 O mundo da segurança cibernética",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md"
-    },
-    {
-      "basename": "HOME - Introduction to Cybersecurity",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
     },
     {
       "basename": "HOME - Modulo 1 - Introdução à segurança da Cibernética",
@@ -187,18 +199,6 @@
     {
       "basename": "Trabalhando com Repetições",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
-    },
-    {
-      "basename": "Trabalhando com Condições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
-    },
-    {
-      "basename": "Analisando SPF",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Analisando SPF.md"
-    },
-    {
-      "basename": "Coleta através de certificados digitais",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coleta através de certificados digitais.md"
     }
   ],
   "omittedPaths": []
