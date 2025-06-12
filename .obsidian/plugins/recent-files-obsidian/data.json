@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "3.4 Como proteger a privacidade on-line",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md"
+      "basename": "4.2 Abordagem comportamental à segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md"
+    },
+    {
+      "basename": "HOME - Modulo 4 - Protegendo a organização",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/HOME - Modulo 4 - Protegendo a organização.md"
+    },
+    {
+      "basename": "HOME - Introduction to Cybersecurity",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
+    },
+    {
+      "basename": "4.1 Dispositivos e tecnologias de segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md"
     },
     {
       "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md"
+    },
+    {
+      "basename": "3.4 Como proteger a privacidade on-line",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md"
     },
     {
       "basename": "3.3 Quem é o dono dos seus dados?",
@@ -19,10 +35,6 @@
     {
       "basename": "3.1 Como proteger a rede e os dispositivos",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md"
-    },
-    {
-      "basename": "HOME - Introduction to Cybersecurity",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
     },
     {
       "basename": "HOME - Modulo 2 - Ataques, conceitos e técnicas",
@@ -187,18 +199,6 @@
     {
       "basename": "Pesquisa Domain Name System",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa Domain Name System.md"
-    },
-    {
-      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
-    },
-    {
-      "basename": "Outras Ferramentas para DNS",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Outras Ferramentas para DNS.md"
-    },
-    {
-      "basename": "Trabalhando com Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
     }
   ],
   "omittedPaths": []

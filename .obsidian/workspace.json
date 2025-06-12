@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md",
+                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4 Como proteger a privacidade on-line"
+              "title": "4.2 Abordagem comportamental à segurança cibernética"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
+    "width": 396.5,
     "collapsed": true
   },
   "right": {
@@ -231,12 +231,16 @@
   },
   "active": "bcb6ad1721f23dbb",
   "lastOpenFiles": [
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/HOME - Modulo 4 - Protegendo a organização.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.3 Quem é o dono dos seus dados?.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.2 Manutenção de dados.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/HOME - Modulo 2 - Ataques, conceitos e técnicas.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade",
@@ -258,15 +262,11 @@
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Robots e Sitemap.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB",
     "ISO27002/Controle físico",
     "ISO27002/Controle de pessoa",
     "ISO27002",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Sem título",
     "Pasted image 20250211165908.png",
     "Pasted image 20240909164417.png",
     "Pasted image 20240904231451.png",
