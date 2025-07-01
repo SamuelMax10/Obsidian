@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "4.2 Abordagem comportamental à segurança cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md"
+      "basename": "4.1 Dispositivos e tecnologias de segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md"
     },
     {
-      "basename": "HOME - Modulo 4 - Protegendo a organização",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/HOME - Modulo 4 - Protegendo a organização.md"
+      "basename": "Trabalhando com Argumento",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "Analise de Tráfego - Portscan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md"
+    },
+    {
+      "basename": "Sistemas Operacionais",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md"
+    },
+    {
+      "basename": "Introdução as Redes TCP IP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md"
+    },
+    {
+      "basename": "2.2 Métodos de infiltração",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md"
+    },
+    {
+      "basename": "Gerenciando Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "HOME - Introduction to Cybersecurity",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
     },
     {
-      "basename": "4.1 Dispositivos e tecnologias de segurança cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md"
+      "basename": "HOME - Modulo 5 - O futuro estará na segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/HOME - Modulo 5 - O futuro estará na segurança cibernética.md"
+    },
+    {
+      "basename": "HOME - Modulo 15 - Information Gathering -WEB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md"
+    },
+    {
+      "basename": "Conhecendo o Curl",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md"
+    },
+    {
+      "basename": "5.2 Educação e carreiras",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.2 Educação e carreiras.md"
+    },
+    {
+      "basename": "2.3 Exploits e vulnerabilidade de segurança",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.3 Exploits e vulnerabilidade de segurança.md"
+    },
+    {
+      "basename": "2.1 Analisando um ataque cibernético",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md"
+    },
+    {
+      "basename": "5.1 Questões judiciais em segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.1 Questões judiciais em segurança cibernética.md"
+    },
+    {
+      "basename": "4.2 Abordagem comportamental à segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md"
+    },
+    {
+      "basename": "HOME - Modulo 4 - Protegendo a organização",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/HOME - Modulo 4 - Protegendo a organização.md"
     },
     {
       "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
@@ -41,20 +101,8 @@
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/HOME - Modulo 2 - Ataques, conceitos e técnicas.md"
     },
     {
-      "basename": "2.1 Analisando um ataque cibernético",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md"
-    },
-    {
       "basename": "2.4 O cenário da cibersegurança",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.4 O cenário da cibersegurança.md"
-    },
-    {
-      "basename": "2.3 Exploits e vulnerabilidade de segurança",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.3 Exploits e vulnerabilidade de segurança.md"
-    },
-    {
-      "basename": "2.2 Métodos de infiltração",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md"
     },
     {
       "basename": "1.2 Dados organizacionais",
@@ -85,16 +133,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
     },
     {
-      "basename": "Conhecendo o Curl",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md"
-    },
-    {
       "basename": "Mirror Website",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Mirror Website.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "NCAT",
@@ -117,10 +157,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md"
     },
     {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
       "basename": "Trabalhando com pacotes",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
     },
@@ -139,10 +175,6 @@
     {
       "basename": "Gerenciando Usuários",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
-    },
-    {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
       "basename": "Introdução ao Google Hacking",
@@ -167,38 +199,6 @@
     {
       "basename": "Mapeando Colaboradores",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
-    },
-    {
-      "basename": "Information Gathering",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
-    },
-    {
-      "basename": "HOME - Modulo 13 - Information Gathering - Business",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
-    },
-    {
-      "basename": "Google Dork , GHDB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md"
-    },
-    {
-      "basename": "Criando um script para analise de metadados",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md"
-    },
-    {
-      "basename": "Coletando endereços de e-mail",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md"
-    },
-    {
-      "basename": "Coletando dados no Pastebin",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando dados no Pastebin.md"
-    },
-    {
-      "basename": "Buscando cache de sites",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
-    },
-    {
-      "basename": "Pesquisa Domain Name System",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa Domain Name System.md"
     }
   ],
   "omittedPaths": []
