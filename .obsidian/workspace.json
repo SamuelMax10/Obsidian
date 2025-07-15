@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Script para identificar páginas na internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Dispositivos e tecnologias de segurança cibernética"
+              "title": "Script para identificar páginas na internet"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "netstat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc083d36973f7996",
@@ -228,37 +229,37 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "2cbf77f23514f252",
+  "active": "bcb6ad1721f23dbb",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Script para identificar páginas na internet.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Construindo um script para web recon.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/WhatWeb.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.1 Questões judiciais em segurança cibernética.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Analise de Tráfego - Portscan.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 2 - Introdução ao Penetration Testing/Sistemas Operacionais.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Introdução as Redes TCP IP.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/HOME - Modulo 5 - O futuro estará na segurança cibernética.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.2 Educação e carreiras.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.3 Exploits e vulnerabilidade de segurança.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.1 Questões judiciais em segurança cibernética.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.2 Abordagem comportamental à segurança cibernética.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/HOME - Modulo 4 - Protegendo a organização.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.4 Como proteger a privacidade on-line.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.3 Quem é o dono dos seus dados?.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.2 Manutenção de dados.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/3.1 Como proteger a rede e os dispositivos.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/HOME - Modulo 2 - Ataques, conceitos e técnicas.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.4 O cenário da cibersegurança.md",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética",
     "Cybersecurity/Cisco Academy - Introduction to Cybersecurity",

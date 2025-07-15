@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "4.1 Dispositivos e tecnologias de segurança cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md"
+      "basename": "Script para identificar páginas na internet",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Script para identificar páginas na internet.md"
+    },
+    {
+      "basename": "HOME - Modulo 15 - Information Gathering -WEB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md"
+    },
+    {
+      "basename": "Construindo um script para web recon",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Construindo um script para web recon.md"
+    },
+    {
+      "basename": "WhatWeb",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/WhatWeb.md"
+    },
+    {
+      "basename": "5.1 Questões judiciais em segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.1 Questões judiciais em segurança cibernética.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Aspas duplas e aspas simples",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Aspas duplas e aspas simples.md"
+    },
+    {
+      "basename": "Diferença de aspas simples e aspas duplas",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
+    },
+    {
+      "basename": "Introdução ao Bash Scripting",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md"
     },
     {
       "basename": "Trabalhando com Argumento",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
     },
     {
+      "basename": "Trabalhando com Condições",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
+    },
+    {
+      "basename": "Trabalhando com Repetições",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
+    },
+    {
+      "basename": "HOME - Modulo 9 - Power Shell para Pentesters",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/HOME - Modulo 9 - Power Shell para Pentesters.md"
+    },
+    {
+      "basename": "Introdução Power Shell (Windows)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 9 - Power Shell para Pentesters/Introdução Power Shell (Windows).md"
+    },
+    {
+      "basename": "Gerenciando Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
+    },
+    {
+      "basename": "Gerenciando Usuários",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
+    },
+    {
+      "basename": "Netcat",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md"
+    },
+    {
       "basename": "Ganhando tempo",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "Trabalhando com pacotes",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Criando um script para analise de metadados",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md"
+    },
+    {
+      "basename": "4.1 Dispositivos e tecnologias de segurança cibernética",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 4 - Protegendo a organização/4.1 Dispositivos e tecnologias de segurança cibernética.md"
     },
     {
       "basename": "Analise de Tráfego - Portscan",
@@ -29,24 +109,12 @@
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.2 Métodos de infiltração.md"
     },
     {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
-    },
-    {
       "basename": "HOME - Introduction to Cybersecurity",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/HOME - Introduction to Cybersecurity.md"
     },
     {
       "basename": "HOME - Modulo 5 - O futuro estará na segurança cibernética",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/HOME - Modulo 5 - O futuro estará na segurança cibernética.md"
-    },
-    {
-      "basename": "HOME - Modulo 15 - Information Gathering -WEB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md"
     },
     {
       "basename": "Conhecendo o Curl",
@@ -63,10 +131,6 @@
     {
       "basename": "2.1 Analisando um ataque cibernético",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 2 - Ataques, conceitos e técnicas/2.1 Analisando um ataque cibernético.md"
-    },
-    {
-      "basename": "5.1 Questões judiciais em segurança cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/5.1 Questões judiciais em segurança cibernética.md"
     },
     {
       "basename": "4.2 Abordagem comportamental à segurança cibernética",
@@ -129,76 +193,12 @@
       "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
       "basename": "Mirror Website",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Mirror Website.md"
     },
     {
       "basename": "NCAT",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md"
-    },
-    {
-      "basename": "HOME - Modulo 12 - Swiss Army Knife",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
-    },
-    {
-      "basename": "Netcat",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md"
-    },
-    {
-      "basename": "Robots e Sitemap",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Robots e Sitemap.md"
-    },
-    {
-      "basename": "Análise de erros, códigos e extensões",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md"
-    },
-    {
-      "basename": "Trabalhando com pacotes",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
-    },
-    {
-      "basename": "Localizando arquivos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
-    },
-    {
-      "basename": "Introdução ao Terminal",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
-    },
-    {
-      "basename": "HOME - Modulo 3 - Dominando o terminal do Linux",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/HOME - Modulo 3 - Dominando o terminal do Linux.md"
-    },
-    {
-      "basename": "Gerenciando Usuários",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
-    },
-    {
-      "basename": "Introdução ao Google Hacking",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
-    },
-    {
-      "basename": "Pesquisa no Shodan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
-    },
-    {
-      "basename": "Vazamento de Dados (Leaks)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md"
-    },
-    {
-      "basename": "TheHarvester",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/TheHarvester.md"
-    },
-    {
-      "basename": "Metadados",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md"
-    },
-    {
-      "basename": "Mapeando Colaboradores",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
     }
   ],
   "omittedPaths": []
