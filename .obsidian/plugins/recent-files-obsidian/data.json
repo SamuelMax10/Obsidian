@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Script para identificar páginas na internet",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Script para identificar páginas na internet.md"
+      "basename": "HOME - Modulo 16 - Scanning",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
+    },
+    {
+      "basename": "Tracking the route",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route.md"
     },
     {
       "basename": "HOME - Modulo 15 - Information Gathering -WEB",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md"
     },
     {
-      "basename": "Construindo um script para web recon",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Construindo um script para web recon.md"
+      "basename": "Conhecendo o Curl",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md"
+    },
+    {
+      "basename": "Introdução ao Terminal",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Introdução ao Terminal.md"
+    },
+    {
+      "basename": "Trabalhando com pacotes",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Robots e Sitemap",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Robots e Sitemap.md"
+    },
+    {
+      "basename": "Mirror Website",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Mirror Website.md"
     },
     {
       "basename": "WhatWeb",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/WhatWeb.md"
+    },
+    {
+      "basename": "Script para identificar páginas na internet",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Script para identificar páginas na internet.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Análise de erros, códigos e extensões",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md"
+    },
+    {
+      "basename": "Construindo um script para web recon",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Construindo um script para web recon.md"
     },
     {
       "basename": "5.1 Questões judiciais em segurança cibernética",
@@ -23,10 +63,6 @@
     {
       "basename": "HOME - Pentest Novo Profissional",
       "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Aspas duplas e aspas simples",
@@ -77,14 +113,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
-      "basename": "Trabalhando com pacotes",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Trabalhando com pacotes.md"
-    },
-    {
-      "basename": "Localizando arquivos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
-    },
-    {
       "basename": "Criando um script para analise de metadados",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md"
     },
@@ -115,10 +143,6 @@
     {
       "basename": "HOME - Modulo 5 - O futuro estará na segurança cibernética",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 5 - O futuro estará na segurança cibernética/HOME - Modulo 5 - O futuro estará na segurança cibernética.md"
-    },
-    {
-      "basename": "Conhecendo o Curl",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Conhecendo o Curl.md"
     },
     {
       "basename": "5.2 Educação e carreiras",
@@ -175,30 +199,6 @@
     {
       "basename": "1.1 O mundo da segurança cibernética",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.1 O mundo da segurança cibernética.md"
-    },
-    {
-      "basename": "HOME - Modulo 1 - Introdução à segurança da Cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/HOME - Modulo 1 - Introdução à segurança da Cibernética.md"
-    },
-    {
-      "basename": "1.4 Invasores cibernéticos",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.4 Invasores cibernéticos.md"
-    },
-    {
-      "basename": "1.5 Guerra cibernética",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 1 - Introdução à segurança da Cibernética/1.5 Guerra cibernética.md"
-    },
-    {
-      "basename": "HOME - Python para pentest",
-      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
-    },
-    {
-      "basename": "Mirror Website",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Mirror Website.md"
-    },
-    {
-      "basename": "NCAT",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/NCAT.md"
     }
   ],
   "omittedPaths": []
