@@ -1,204 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+      "basename": "HOME - Modulo 16 - Scanning",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
     },
     {
-      "basename": "Análise de erros, códigos e extensões",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md"
+      "basename": "PING Sweep",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md"
     },
     {
-      "basename": "HOME - Modulo 15 - Information Gathering -WEB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md"
+      "basename": "Overview sobre Firewall - iptables",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Overview sobre Firewall - iptables.md"
     },
     {
-      "basename": "Mirror Website",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Mirror Website.md"
+      "basename": "Tracking the route - Aula pratica",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula pratica.md"
     },
     {
-      "basename": "Robots e Sitemap",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Robots e Sitemap.md"
-    },
-    {
-      "basename": "HOME - Modulo 14 - Information Gathering - INFRA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md"
-    },
-    {
-      "basename": "Coleta através de certificados digitais",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coleta através de certificados digitais.md"
-    },
-    {
-      "basename": "Pesquisa no Shodan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md"
-    },
-    {
-      "basename": "Protocolo RDAP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Protocolo RDAP.md"
-    },
-    {
-      "basename": "IANA",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/IANA.md"
-    },
-    {
-      "basename": "Mapeando a Infra - BGP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Mapeando a Infra - BGP.md"
-    },
-    {
-      "basename": "O que é uma lista",
-      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
-    },
-    {
-      "basename": "Coletando informações com Whois",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Coletando informações com Whois.md"
-    },
-    {
-      "basename": "Criando um Whois em python",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Criando um Whois em python.md"
-    },
-    {
-      "basename": "Operações com listas",
-      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/Operações com listas.md"
-    },
-    {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
-    },
-    {
-      "basename": "Introdução ao Google Hacking",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Introdução ao Google Hacking.md"
-    },
-    {
-      "basename": "Information Gathering",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
-    },
-    {
-      "basename": "Google Dork , GHDB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Google Dork , GHDB.md"
-    },
-    {
-      "basename": "Operações de textos",
-      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
-    },
-    {
-      "basename": "Wireshark",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/Wireshark.md"
-    },
-    {
-      "basename": "HOME - Modulo 7 - Analisadores de Protocolos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 7 - Analisadores de Protocolos/HOME - Modulo 7 - Analisadores de Protocolos.md"
-    },
-    {
-      "basename": "HOME - Modulo 6 - TCP IP para Pentesters",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/HOME - Modulo 6 - TCP IP para Pentesters.md"
-    },
-    {
-      "basename": "HOME - Python para pentest",
-      "path": "Cybersecurity/Python para pentest/HOME - Python para pentest.md"
-    },
-    {
-      "basename": "Operadores de comparação e lógicos",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md"
-    },
-    {
-      "basename": "Condição if",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md"
-    },
-    {
-      "basename": "Caso contrario (else)",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
-    },
-    {
-      "basename": "Condição elif",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md"
-    },
-    {
-      "basename": "Entrada de números",
-      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md"
-    },
-    {
-      "basename": "Como usar o input()",
-      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md"
-    },
-    {
-      "basename": "Operações matemáticas",
-      "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
-    },
-    {
-      "basename": "Variáveis",
-      "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
-    },
-    {
-      "basename": "Criando um script para analise de metadados",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Criando um script para analise de metadados.md"
-    },
-    {
-      "basename": "Buscando domínios similares",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando domínios similares.md"
-    },
-    {
-      "basename": "Buscando cache de sites",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Buscando cache de sites.md"
-    },
-    {
-      "basename": "HOME - Modulo 8 - Bash Scripting (Linux)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/HOME - Modulo 8 - Bash Scripting (Linux).md"
-    },
-    {
-      "basename": "Diferença de aspas simples e aspas duplas",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Diferença de aspas simples e aspas duplas.md"
-    },
-    {
-      "basename": "HOME - Modulo 13 - Information Gathering - Business",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md"
-    },
-    {
-      "basename": "Metadados",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Metadados.md"
-    },
-    {
-      "basename": "Mapeando Colaboradores",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Mapeando Colaboradores.md"
-    },
-    {
-      "basename": "TheHarvester",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/TheHarvester.md"
-    },
-    {
-      "basename": "Vazamento de Dados (Leaks)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md"
-    },
-    {
-      "basename": "Bytes na Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 6 - TCP IP para Pentesters/Bytes na Rede.md"
-    },
-    {
-      "basename": "Trabalhando com Repetições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Repetições.md"
-    },
-    {
-      "basename": "Introdução ao Bash Scripting",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Introdução ao Bash Scripting.md"
-    },
-    {
-      "basename": "Criando um PortScan de Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
-    },
-    {
-      "basename": "Trabalhando com Condições",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Condições.md"
-    },
-    {
-      "basename": "Trabalhando com Argumento",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Trabalhando com Argumento.md"
+      "basename": "Tracking the route - Aula teórica",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula teórica.md"
     }
   ],
   "omittedPaths": []
