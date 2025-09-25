@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Descobrindo host ativos - Pentest Interno",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md"
-    },
-    {
       "basename": "HOME - Modulo 16 - Scanning",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
+    },
+    {
+      "basename": "Diferença entre os tipos de scan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Estudo técnico sobre port scanning",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md"
+    },
+    {
+      "basename": "Descobrindo hosts ativos com Nmap",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo hosts ativos com Nmap.md"
+    },
+    {
+      "basename": "Descobrindo host ativos - Pentest Interno",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md"
     },
     {
       "basename": "Gerenciando Usuários",
@@ -15,10 +31,6 @@
     {
       "basename": "Gerenciando Rede",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "PING Sweep",
