@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Bypass Firewall",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md"
+    },
+    {
+      "basename": "HOME - Modulo 17 - Burlando Mecanismos de Defesa",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md"
+    },
+    {
       "basename": "HOME - Modulo 16 - Scanning",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
     },
     {
-      "basename": "Diferença entre os tipos de scan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md"
+      "basename": "OS Fingerprinting",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/OS Fingerprinting.md"
+    },
+    {
+      "basename": "Network Mapper - Nmap",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md"
     },
     {
       "basename": "CHECKLIST",
       "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
-    },
-    {
-      "basename": "Estudo técnico sobre port scanning",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md"
     },
     {
       "basename": "Descobrindo hosts ativos com Nmap",
@@ -23,6 +31,26 @@
     {
       "basename": "Descobrindo host ativos - Pentest Interno",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md"
+    },
+    {
+      "basename": "Criando um PortScan de Rede",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Diferença entre os tipos de scan",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md"
+    },
+    {
+      "basename": "Estudo técnico sobre port scanning",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md"
     },
     {
       "basename": "Gerenciando Usuários",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME - Modulo 16 - Scanning"
+              "title": "Bypass Firewall"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "right": {
     "id": "563193cd76bf4148",
@@ -192,12 +193,20 @@
   },
   "active": "0fc7ae5ce047c0e3",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/OS Fingerprinting.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo hosts ativos com Nmap.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md",
