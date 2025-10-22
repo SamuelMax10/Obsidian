@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Bypass Firewall",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md"
+      "basename": "Estudo tecnico Bypass de regras de IDS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md"
+    },
+    {
+      "basename": "Entendendo e criando regras de IDS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md"
     },
     {
       "basename": "HOME - Modulo 17 - Burlando Mecanismos de Defesa",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md"
+    },
+    {
+      "basename": "IDS - Sistema de Detecção de Intrusos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Bypass Firewall",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md"
     },
     {
       "basename": "HOME - Modulo 16 - Scanning",
@@ -19,10 +35,6 @@
     {
       "basename": "Network Mapper - Nmap",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Descobrindo hosts ativos com Nmap",
