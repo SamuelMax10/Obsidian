@@ -11,10 +11,14 @@
             "id": "0fc7ae5ce047c0e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caso contrario (else)"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arp",
+                "query": "whic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,32 +191,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fc7ae5ce047c0e3",
+  "active": "980107a6e3e1eb96",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
+    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
+    "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md",
+    "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
+    "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
+    "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
+    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/HOME - Modulo 18 - Trabalhando com Scapy.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/Introdução ao Scapy.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md",
-    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md",
+    "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/OS Fingerprinting.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo hosts ativos com Nmap.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Overview sobre Firewall - iptables.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula pratica.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula teórica.md"
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Descobrindo host ativos - Pentest Interno.md"
   ]
 }

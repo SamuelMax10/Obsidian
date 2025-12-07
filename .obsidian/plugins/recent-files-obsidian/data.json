@@ -1,28 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+      "basename": "Caso contrario (else)",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
+    },
+    {
+      "basename": "Condição elif",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md"
+    },
+    {
+      "basename": "Operadores de comparação e lógicos",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md"
+    },
+    {
+      "basename": "Condição if",
+      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md"
+    },
+    {
+      "basename": "Como usar o input()",
+      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md"
+    },
+    {
+      "basename": "Entrada de números",
+      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md"
+    },
+    {
+      "basename": "Operações de textos",
+      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
+    },
+    {
+      "basename": "Operações matemáticas",
+      "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
+    },
+    {
+      "basename": "Variáveis",
+      "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
+    },
+    {
+      "basename": "HOME - Modulo 18 - Trabalhando com Scapy",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/HOME - Modulo 18 - Trabalhando com Scapy.md"
+    },
+    {
+      "basename": "Introdução Python",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md"
+    },
+    {
+      "basename": "Introdução ao Scapy",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/Introdução ao Scapy.md"
     },
     {
       "basename": "HOME - Modulo 17 - Burlando Mecanismos de Defesa",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md"
     },
     {
-      "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
-      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md"
+      "basename": "IDS - Sistema de Detecção de Intrusos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md"
     },
     {
-      "basename": "Estudo tecnico Bypass de regras de IDS",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md"
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "Localizando arquivos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
+    },
+    {
+      "basename": "Network Mapper - Nmap",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md"
     },
     {
       "basename": "Entendendo e criando regras de IDS",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md"
     },
     {
-      "basename": "IDS - Sistema de Detecção de Intrusos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md"
+      "basename": "Estudo tecnico Bypass de regras de IDS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md"
+    },
+    {
+      "basename": "HOME - Modulo 16 - Scanning",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
+    },
+    {
+      "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
+      "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md"
     },
     {
       "basename": "CHECKLIST",
@@ -33,16 +93,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md"
     },
     {
-      "basename": "HOME - Modulo 16 - Scanning",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md"
-    },
-    {
       "basename": "OS Fingerprinting",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/OS Fingerprinting.md"
-    },
-    {
-      "basename": "Network Mapper - Nmap",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md"
     },
     {
       "basename": "Descobrindo hosts ativos com Nmap",
@@ -59,10 +111,6 @@
     {
       "basename": "Ganhando tempo",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
-    },
-    {
-      "basename": "Localizando arquivos",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
     },
     {
       "basename": "Diferença entre os tipos de scan",
