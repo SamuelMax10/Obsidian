@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "HOME - Modulo 19 - Enumeração",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
+    },
+    {
+      "basename": "Identificando Web Application Firewalls",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md"
+    },
+    {
+      "basename": "Enumerando HTTPS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTPS.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Information Gathering",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md"
+    },
+    {
+      "basename": "Enumerando HTTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTP.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
       "basename": "Caso contrario (else)",
       "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
     },
@@ -57,10 +85,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
-    },
-    {
       "basename": "Localizando arquivos",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "HOME - Modulo 3 - Protegendo seus dados e privacidade",
       "path": "Cybersecurity/Cisco Academy - Introduction to Cybersecurity/Modulo 3 - Protegendo seus dados e privacidade/HOME - Modulo 3 - Protegendo seus dados e privacidade.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Bypass Firewall",
