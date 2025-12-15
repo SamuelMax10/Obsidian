@@ -170,8 +170,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f5fcc482ea2e50e0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,13 +203,16 @@
   },
   "active": "0fc7ae5ce047c0e3",
   "lastOpenFiles": [
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md",
+    "Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Interagindo com FTP (Python).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando FTP.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTPS.md",
     "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
@@ -216,10 +230,7 @@
     "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/Introdução ao Scapy.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Localizando arquivos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa"
   ]
 }
