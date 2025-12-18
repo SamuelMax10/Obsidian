@@ -5,12 +5,32 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
     },
     {
+      "basename": "Enumerando POP3",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando POP3.md"
+    },
+    {
+      "basename": "Automatizando a enumeração NetBIOS-SMB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md"
+    },
+    {
+      "basename": "Enumerando com RPC",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando com RPC.md"
+    },
+    {
       "basename": "Enumerando NetBIOS - SMB no Windows",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md"
     },
     {
+      "basename": "Enumerando NetBIOS - SMB via Linux",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB via Linux.md"
+    },
+    {
       "basename": "Introdução NetBIOS - SMB",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
     },
     {
       "basename": "Interagindo com FTP (Python)",

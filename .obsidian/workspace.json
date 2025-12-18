@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirb",
+                "query": "look",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,11 +202,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fc7ae5ce047c0e3",
+  "active": "4bf3eb24188b3b16",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando POP3.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando com RPC.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB via Linux.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md",
+    "().md",
+    "Pasted image 20251217190955.png",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Sem título",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Trick Brute force via prompt do windows.md",
     "Sem título.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Interagindo com FTP (Python).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md",
@@ -224,12 +233,6 @@
     "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md",
     "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md",
     "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/HOME - Modulo 18 - Trabalhando com Scapy.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Introdução Python.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy/Introdução ao Scapy.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa"
   ]
