@@ -5,12 +5,32 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
     },
     {
-      "basename": "Enumerando POP3",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando POP3.md"
+      "basename": "Criando um script para brute force SMTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para brute force SMTP.md"
     },
     {
       "basename": "Automatizando a enumeração NetBIOS-SMB",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md"
+    },
+    {
+      "basename": "Criando um script para enumerar SMTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para enumerar SMTP.md"
+    },
+    {
+      "basename": "Variáveis",
+      "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
+    },
+    {
+      "basename": "O que é uma lista",
+      "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
+    },
+    {
+      "basename": "Enumerando SMTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SMTP.md"
+    },
+    {
+      "basename": "Enumerando POP3",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando POP3.md"
     },
     {
       "basename": "Enumerando com RPC",
@@ -27,10 +47,6 @@
     {
       "basename": "Introdução NetBIOS - SMB",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
     },
     {
       "basename": "Interagindo com FTP (Python)",
@@ -95,10 +111,6 @@
     {
       "basename": "Operações matemáticas",
       "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
-    },
-    {
-      "basename": "Variáveis",
-      "path": "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md"
     },
     {
       "basename": "HOME - Modulo 18 - Trabalhando com Scapy",
@@ -187,18 +199,6 @@
     {
       "basename": "PING Sweep",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md"
-    },
-    {
-      "basename": "Overview sobre Firewall - iptables",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Overview sobre Firewall - iptables.md"
-    },
-    {
-      "basename": "Tracking the route - Aula pratica",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula pratica.md"
-    },
-    {
-      "basename": "Tracking the route - Aula teórica",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Tracking the route - Aula teórica.md"
     }
   ],
   "omittedPaths": []
