@@ -5,6 +5,18 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
     },
     {
+      "basename": "Enumerando Network File System",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md"
+    },
+    {
+      "basename": "Enumerando SSH",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SSH.md"
+    },
+    {
+      "basename": "Enumerando dispositivo de rede (TELNET)",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando dispositivo de rede (TELNET).md"
+    },
+    {
       "basename": "Criando um script para brute force SMTP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para brute force SMTP.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Estudo técnico sobre port scanning",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md"
-    },
-    {
-      "basename": "Gerenciando Usuários",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Usuários.md"
-    },
-    {
-      "basename": "Gerenciando Rede",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Gerenciando Rede.md"
-    },
-    {
-      "basename": "PING Sweep",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md"
     }
   ],
   "omittedPaths": []
