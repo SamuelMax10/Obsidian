@@ -203,8 +203,11 @@
   },
   "active": "0fc7ae5ce047c0e3",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Alterando informações via SNMP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SSH.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando dispositivo de rede (TELNET).md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para brute force SMTP.md",
@@ -228,9 +231,6 @@
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
     "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando FTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTPS.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa"

@@ -5,6 +5,18 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
     },
     {
+      "basename": "Enumerando MySQL - Porta 3306",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md"
+    },
+    {
+      "basename": "Alterando informações via SNMP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Alterando informações via SNMP.md"
+    },
+    {
+      "basename": "Enumerando SNMP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md"
+    },
+    {
       "basename": "Enumerando Network File System",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Criando um PortScan de Rede",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 8 - Bash Scripting (Linux)/Criando um PortScan de Rede.md"
-    },
-    {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
-    },
-    {
-      "basename": "Diferença entre os tipos de scan",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Diferença entre os tipos de scan.md"
-    },
-    {
-      "basename": "Estudo técnico sobre port scanning",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Estudo técnico sobre port scanning.md"
     }
   ],
   "omittedPaths": []
