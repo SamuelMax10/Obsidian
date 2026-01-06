@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
+                "file": "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/Etapa - Análise de Vulnerabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME - Modulo 19 - Enumeração"
+              "title": "Etapa - Análise de Vulnerabilidade"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "look",
+                "query": "grep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 308.5
   },
   "right": {
     "id": "563193cd76bf4148",
@@ -203,34 +203,35 @@
   },
   "active": "0fc7ae5ce047c0e3",
   "lastOpenFiles": [
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Alterando informações via SNMP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SSH.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando dispositivo de rede (TELNET).md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para brute force SMTP.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para enumerar SMTP.md",
-    "Cybersecurity/Python para pentest/Modulo 1 - Variáveis/Variáveis.md",
-    "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md",
-    "Pasted image 20251217190955.png",
-    "().md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SMTP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/HOME - Modulo 20 - Análise de Vulnerabilidades.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/Etapa - Análise de Vulnerabilidade.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md",
+    "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/PING Sweep.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/HOME - Modulo 16 - Scanning.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando POP3.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando com RPC.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB via Linux.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SMTP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando FTP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md",
+    "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Information Gathering.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/Análise de erros, códigos e extensões.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 15 - Information Gathering -WEB/HOME - Modulo 15 - Information Gathering -WEB.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Pesquisa no Shodan.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 11 - Python3 para Pentesters/Banner Grabbing em Python.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Alterando informações via SNMP.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/Transferência de Zona.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 14 - Inormation Gathering - INFRA/HOME - Modulo 14 - Information Gathering - INFRA.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Coletando endereços de e-mail.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/HOME - Modulo 13 - Information Gathering - Business.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 13 - Information Gathering - Business/Vazamento de Dados (Leaks).md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md",
+    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md",
+    "Pasted image 20251217190955.png",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Sem título",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Trick Brute force via prompt do windows.md",
-    "Sem título.md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Interagindo com FTP (Python).md",
-    "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md",
-    "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 18 - Trabalhando com Scapy",
     "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa"
