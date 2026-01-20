@@ -1,20 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Etapa - Análise de Vulnerabilidade",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/Etapa - Análise de Vulnerabilidade.md"
+      "basename": "Módulos auxiliares",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 21 - Metasploit Framework/Módulos auxiliares.md"
+    },
+    {
+      "basename": "Metasploit Framework",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 21 - Metasploit Framework/Metasploit Framework.md"
+    },
+    {
+      "basename": "HOME - Modulo 21 - Metasploit Framework",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 21 - Metasploit Framework/HOME - Modulo 21 - Metasploit Framework.md"
+    },
+    {
+      "basename": "HOME - Pentest Novo Profissional",
+      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+    },
+    {
+      "basename": "Enumerando com RPC",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando com RPC.md"
+    },
+    {
+      "basename": "Enumerando NetBIOS - SMB via Linux",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB via Linux.md"
     },
     {
       "basename": "HOME - Modulo 20 - Análise de Vulnerabilidades",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/HOME - Modulo 20 - Análise de Vulnerabilidades.md"
     },
     {
-      "basename": "Ganhando tempo",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
+      "basename": "Compliance PCI-DSS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/Compliance PCI-DSS.md"
     },
     {
-      "basename": "HOME - Pentest Novo Profissional",
-      "path": "Cybersecurity/Pentest - Novo Profissional/HOME - Pentest Novo Profissional.md"
+      "basename": "Bypass Firewall",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Bypass Firewall.md"
+    },
+    {
+      "basename": "Estudo tecnico Bypass de regras de IDS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Estudo tecnico Bypass de regras de IDS.md"
+    },
+    {
+      "basename": "HOME - Modulo 17 - Burlando Mecanismos de Defesa",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/HOME - Modulo 17 - Burlando Mecanismos de Defesa.md"
+    },
+    {
+      "basename": "IDS - Sistema de Detecção de Intrusos",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/IDS - Sistema de Detecção de Intrusos.md"
+    },
+    {
+      "basename": "Entendendo e criando regras de IDS",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 17 - Burlando Mecanismos de Defesa/Entendendo e criando regras de IDS.md"
+    },
+    {
+      "basename": "Network Mapper - Nmap",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/Network Mapper - Nmap.md"
+    },
+    {
+      "basename": "OS Fingerprinting",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 16 - Scanning/OS Fingerprinting.md"
+    },
+    {
+      "basename": "Etapa - Análise de Vulnerabilidade",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 20 - Análise de Vulnerabilidades/Etapa - Análise de Vulnerabilidade.md"
+    },
+    {
+      "basename": "HOME - Modulo 19 - Enumeração",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
+    },
+    {
+      "basename": "Enumerando SNMP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md"
+    },
+    {
+      "basename": "Enumerando NetBIOS - SMB no Windows",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md"
+    },
+    {
+      "basename": "Identificando Web Application Firewalls",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md"
+    },
+    {
+      "basename": "Introdução NetBIOS - SMB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md"
+    },
+    {
+      "basename": "Automatizando a enumeração NetBIOS-SMB",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md"
+    },
+    {
+      "basename": "Enumerando FTP",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando FTP.md"
+    },
+    {
+      "basename": "CHECKLIST",
+      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
+    },
+    {
+      "basename": "Enumerando Network File System",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md"
+    },
+    {
+      "basename": "Enumerando MySQL - Porta 3306",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md"
+    },
+    {
+      "basename": "Ganhando tempo",
+      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 3 - Dominando o terminal do Linux/Ganhando tempo.md"
     },
     {
       "basename": "PING Sweep",
@@ -33,20 +125,8 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SMTP.md"
     },
     {
-      "basename": "Enumerando FTP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando FTP.md"
-    },
-    {
-      "basename": "HOME - Modulo 19 - Enumeração",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/HOME - Modulo 19 - Enumeração.md"
-    },
-    {
       "basename": "Netcat",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/Netcat.md"
-    },
-    {
-      "basename": "CHECKLIST",
-      "path": "Cybersecurity/Pentest - Novo Profissional/CHECKLIST.md"
     },
     {
       "basename": "Information Gathering",
@@ -97,18 +177,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 12 - Swiss Army Knife/HOME - Modulo 12 - Swiss Army Knife.md"
     },
     {
-      "basename": "Enumerando MySQL - Porta 3306",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando MySQL - Porta 3306.md"
-    },
-    {
-      "basename": "Enumerando SNMP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SNMP.md"
-    },
-    {
-      "basename": "Enumerando Network File System",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando Network File System.md"
-    },
-    {
       "basename": "Enumerando SSH",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando SSH.md"
     },
@@ -121,10 +189,6 @@
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para brute force SMTP.md"
     },
     {
-      "basename": "Automatizando a enumeração NetBIOS-SMB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Automatizando a enumeração NetBIOS-SMB.md"
-    },
-    {
       "basename": "Criando um script para enumerar SMTP",
       "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Criando um script para enumerar SMTP.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "O que é uma lista",
       "path": "Cybersecurity/Python para pentest/Modulo 5 - Listas/O que é uma lista.md"
-    },
-    {
-      "basename": "Enumerando com RPC",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando com RPC.md"
-    },
-    {
-      "basename": "Enumerando NetBIOS - SMB no Windows",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB no Windows.md"
-    },
-    {
-      "basename": "Enumerando NetBIOS - SMB via Linux",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando NetBIOS - SMB via Linux.md"
-    },
-    {
-      "basename": "Introdução NetBIOS - SMB",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Introdução NetBIOS - SMB.md"
-    },
-    {
-      "basename": "Interagindo com FTP (Python)",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Interagindo com FTP (Python).md"
-    },
-    {
-      "basename": "Identificando Web Application Firewalls",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Identificando Web Application Firewalls.md"
-    },
-    {
-      "basename": "Caso contrario (else)",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Caso contrario (else).md"
-    },
-    {
-      "basename": "Condição elif",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição elif.md"
-    },
-    {
-      "basename": "Condição if",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Condição if.md"
-    },
-    {
-      "basename": "Operadores de comparação e lógicos",
-      "path": "Cybersecurity/Python para pentest/Modulo 6 - Condições/Operadores de comparação e lógicos.md"
-    },
-    {
-      "basename": "Enumerando HTTPS",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTPS.md"
-    },
-    {
-      "basename": "Enumerando HTTP",
-      "path": "Cybersecurity/Pentest - Novo Profissional/Modulo 19 - Enumeração/Enumerando HTTP.md"
-    },
-    {
-      "basename": "Como usar o input()",
-      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Como usar o input().md"
-    },
-    {
-      "basename": "Entrada de números",
-      "path": "Cybersecurity/Python para pentest/Modulo 4 - Inputs do usuario/Entrada de números.md"
-    },
-    {
-      "basename": "Operações de textos",
-      "path": "Cybersecurity/Python para pentest/Modulo 3 - Operações de textos/Operações de textos.md"
-    },
-    {
-      "basename": "Operações matemáticas",
-      "path": "Cybersecurity/Python para pentest/Modulo 2 - Operações matematicas/Operações matemáticas.md"
     }
   ],
   "omittedPaths": []
